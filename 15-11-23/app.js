@@ -67,4 +67,4 @@ app.post('/sa/data', (req, res) => {
 // Start the server
 app.listen(port, () => {
     console.log(`Server is listening at http://localhost:${port}`);
-});
+})
